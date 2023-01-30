@@ -50,5 +50,5 @@
     - batch size : 256  
     - epochs : 61  
 
-### 4. Self-feedback?
+## 4. Self-feedback?
 - 시간이 없는 관계로 대충 참여했는데 나름 괜찮은 성적을 거둔 것 같아 만족함
