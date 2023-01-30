@@ -1,4 +1,4 @@
-# DACON_2210 : 문장 유형 분류 AI 경진대회
+# DACON_2212 : 문장 유형 분류 AI 경진대회
 - Natural Language Processing  
 - Classification  
 
